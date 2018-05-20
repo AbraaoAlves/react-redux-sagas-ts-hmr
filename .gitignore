@@ -1,0 +1,36 @@
+# PLATFORM
+.DS_Store
+
+# LOGS
+logs
+*.log
+
+# RUNTIME DATA
+pids
+*.pid
+*.seed
+
+# IDEs
+.idea/
+.history/
+
+# COVERAGE
+coverage
+lib-cov
+
+# DEPENDENCIES
+node_modules
+
+# ENVIRONMENT
+.env
+.env.production
+.lock-wscript
+data/
+NOTES.md
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# BUNDLE
+.awcache
+build
